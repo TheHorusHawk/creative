@@ -7,7 +7,7 @@ THEME = 'notmyidea'
 
 GITHUB_URL = 'https://github.com/me50/TheHorusHawk'
 PATH = 'content'
-
+OUTPUT_PATH = 'docs/'
 TIMEZONE = 'Europe/London'
 DEFAULT_DATE = 'fs'
 DEFAULT_LANG = 'en'
