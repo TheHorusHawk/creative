@@ -1,4 +1,5 @@
 Title: Games Arena: New project first week update
+Summary: Django web application, project name Games Arena, week one update.
 
 I'm starting a new project in Django, which is to be the final project of my Web Development with Python and Javascript course. Unlike other projects of that course, this one I will be doing from scratch, with no seed code. 
 

@@ -11,6 +11,6 @@ Solo Work:
 
 [February Moon](https://brunomadteles.itch.io/february-moon).
 
-This one was made as a group
+This one was made as a group:
 
 [I Am Become Consciousness, Collapser of Waves](https://globalgamejam.org/2017/games/i-am-become-consciousness-collapser-waves).
