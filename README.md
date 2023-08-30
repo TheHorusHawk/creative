@@ -1,7 +1,6 @@
 # TheHorusHawk.github.io
-A website with things I like or am making
+Static website with things I like or am making. Basically a blog with news as to what I'm up to, as well as links to my work, and a couple of books reviews.
 
-Just dive right in, nothing should require further explanation
-
+Just dive right in, the url is https://thehorushawk.github.io/
 
 Made with Pelican and Twine.
