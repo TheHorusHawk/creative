@@ -1,4 +1,4 @@
-Title:Animation snippets
+Title:Animation
 Date: 2023-01-10 10:20
 Modified: 2023-01-10 19:30
 Summary: Here's the links to different animation I made throughout the years. These are all less than one minute in length. Language: English
@@ -25,11 +25,11 @@ December 2018
 
 iDEaS
 
-<iframe width="640" height="360" src="https://www.newgrounds.com/content/embed.php?id=SjWBc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.newgrounds.com/content/embed.php?id=SjWBc" frameborder="0" allowfullscreen></iframe>
 
 Starlings
 
-<iframe width="640" height="360" src="https://www.newgrounds.com/content/embed.php?id=SjZFb" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.newgrounds.com/content/embed.php?id=SjZFb" frameborder="0" allowfullscreen></iframe>
 
 Oh nevermind.
 
