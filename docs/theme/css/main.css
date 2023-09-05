@@ -1,5 +1,5 @@
 /*
-	Name: Smashing HTML5 2023 TheHorusHawk remix
+	Name: Smashing HTML5
 	Date: July 2009
 	Description: Sample layout for HTML5 and CSS3 goodness.
 	Version: 1.0
@@ -403,7 +403,7 @@ li:first-child .hentry, #content > .hentry {border: 0; margin: 0;}
 .hentry .post-info * {font-style: normal;}
 
 	/* Content */
-	.hentry footer {margin-bottom: 2em;margin-right:2em}
+	.hentry footer {margin-bottom: 2em;}
 	.hentry footer address {display: inline;}
 	#posts-list footer address {display: block;}
 
