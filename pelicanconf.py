@@ -3,7 +3,7 @@ SITENAME = "Bruno's Website of Things"
 SITEURL = ''
 
 
-THEME = 'notmyidea'
+THEME = '../Pelican/Wip-theme'
 
 GITHUB_URL = 'https://github.com/me50/TheHorusHawk'
 PATH = 'content'
