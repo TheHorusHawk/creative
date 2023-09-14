@@ -16,34 +16,86 @@
         <header id="banner" class="body">
                 <h1><a href="https://thehorushawk.github.io/">Bruno's Website of Things</a></h1>
                 <nav><ul>
-                    <li><a href="https://thehorushawk.github.io/pages/about-me.html">About me</a></li>
                     <li><a href="https://thehorushawk.github.io/pages/animation.html">Animation</a></li>
                     <li><a href="https://thehorushawk.github.io/pages/comics.html">Comics</a></li>
-                    <li><a href="https://thehorushawk.github.io/pages/games.html">Games</a></li>
-                    <li><a href="https://thehorushawk.github.io/category/development.html">Development</a></li>
+                    <li><a href="https://thehorushawk.github.io/pages/interactive-stuff.html">Interactive Stuff</a></li>
+                    <li><a href="https://thehorushawk.github.io/category/development-blog.html">Development Blog</a></li>
+                    <li><a href="https://thehorushawk.github.io/category/film.html">Film</a></li>
                     <li><a href="https://thehorushawk.github.io/category/reviews.html">Reviews</a></li>
-                    <li><a href="https://thehorushawk.github.io/category/videos.html">Videos</a></li>
                 </ul></nav>
         </header><!-- /#banner -->
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="https://thehorushawk.github.io/games-arena-update.html">Games Arena: Update</a></h1>
+                    <h1 class="entry-title"><a href="https://thehorushawk.github.io/games-arena-new-project-first-week-update.html">Games Arena: New project first week update</a></h1>
 <footer class="post-info">
-        <abbr class="modified" title="2023-09-14T16:57:46.271141+01:00">
+        <abbr class="modified" title="2023-09-14T17:09:47.454696+01:00">
                 Date: Thu 14 September 2023
         </abbr>
-<p>In <a href="https://thehorushawk.github.io/category/development.html">Development</a></p>
+<p>In <a href="https://thehorushawk.github.io/category/development-blog.html">Development Blog</a></p>
 
-</footer><!-- /.post-info --><p>You know when you're going through something, and you realize you have to do something else before you do that, and you do that hoping it's not going to take long, and while you're doind that something else you bump into something else that you also have to investigate? If you've ever read David Foster Wallace and got sucked into a footnote midsentence and realised that footnote is a massive text with its own footnotes, you know the feeling I'm describing.</p>
-<p>That's how it's been going for me. This past week I have decided to implement a "is online" feature to check which of my players is online. So I decided to do it via cache, and that has led me to do a tutorial on caching with Redis, which is a cached database, and of course this tutorial was broken in newer versions of Python/Django, so I've decided to use a virtual environment just to do the tutorial, so that's got me to research into how virtual environments work and once I've got it to work (via a different workaround, as it turned out), I learned a cool node tool called loadtest, then  I realised I had to implement it as middleware, so I've been seeing how to do that. In the process I also learned a bit about the intricacies of how to implement many-to-many relationships in django.</p>
-<p>So, all-in-all, maybe three lines of code written per hour spent reading documentation. But that is not to say it's been a bad week, just one in which I got to go deeper and learn really important foundational elements for the work ahead, and future workings with the tools. It's been a great week, actually, and it's felt like I keep overcoming obstacles and getting more knowledge as a result. Hazzaa! It's weeks in which it seems I can't make headway, and I'm not learning anything, which I dread.</p>
-<p>So, I've got a really nice and functional middleware. It doesn't do much, yet, that's for later, but I hope I'll be able to park this one item soon. I'm still on a single item on a spec: implement "is online". I will be phewing hard once that is done.</p>                </article>
+</footer><!-- /.post-info --><p>I'm starting a new project in Django, which is to be the final project of my Web Development with Python and Javascript course. Unlike other projects of that course, this one I will be doing from scratch, with no seed code. </p>
+<p>This first week, I have initialized the django project and created a screen to choose your nickname. Once you do, or if you already have logged in before, it will take you to the Games Arena proper, where you'll be able to see who else is online so you can choose people to play a game. All this is done via sessions.</p>
+<p>At the moment, being online is implemented only as a button which allows players to make themselves available for a game, but I'm looking to implement a way for the server to tell who is and isn't online automatically. I'm looking to do this via Redis. More news on that, or on my failure to do so, on my next update, I hope.</p>                </article>
             </aside><!-- /#featured -->
                 <section id="content" class="body">
                     <h1>Other articles</h1>
                     <hr />
                     <ol id="posts-list" class="hfeed">
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="https://thehorushawk.github.io/games-arena-update.html" rel="bookmark"
+                           title="Permalink to Games Arena: Update">Games Arena: Update</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="modified" title="2023-09-14T17:09:47.454696+01:00">
+                Date: Thu 14 September 2023
+        </abbr>
+<p>In <a href="https://thehorushawk.github.io/category/development-blog.html">Development Blog</a></p>
+
+</footer><!-- /.post-info -->                <p class="entry-summary"><p>You know when you're going through something, and you realize you have to do something else before you do that, and you do that hoping it's not going to take long, and while you're doind that something else you bump into something else that you also have to investigate? If …</p></p>
+                <a class="readmore" href="https://thehorushawk.github.io/games-arena-update.html">read article</a>
+                </div><!-- /.entry-content -->
+            </article></li>
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="https://thehorushawk.github.io/website-new-project-using-pelican.html" rel="bookmark"
+                           title="Permalink to Website: New project using Pelican">Website: New project using Pelican</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="modified" title="2023-09-14T17:09:47.454696+01:00">
+                Date: Thu 14 September 2023
+        </abbr>
+<p>In <a href="https://thehorushawk.github.io/category/development-blog.html">Development Blog</a></p>
+
+</footer><!-- /.post-info -->                <p class="entry-summary"><p>First update on new project, creating a website using Pelican</p></p>
+                <a class="readmore" href="https://thehorushawk.github.io/website-new-project-using-pelican.html">read article</a>
+                </div><!-- /.entry-content -->
+            </article></li>
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="https://thehorushawk.github.io/website-project-update.html" rel="bookmark"
+                           title="Permalink to Website project update">Website project update</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="modified" title="2023-09-14T17:09:47.454696+01:00">
+                Date: Thu 14 September 2023
+        </abbr>
+<p>In <a href="https://thehorushawk.github.io/category/development-blog.html">Development Blog</a></p>
+
+</footer><!-- /.post-info -->                <p class="entry-summary"><p>Second update on website using Pelican</p></p>
+                <a class="readmore" href="https://thehorushawk.github.io/website-project-update.html">read article</a>
+                </div><!-- /.entry-content -->
+            </article></li>
 
             <li><article class="hentry">
                 <header>
@@ -65,24 +117,6 @@
 
             <li><article class="hentry">
                 <header>
-                    <h1><a href="https://thehorushawk.github.io/website-project-update.html" rel="bookmark"
-                           title="Permalink to Website project update">Website project update</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="modified" title="2023-09-05T16:57:21.489530+01:00">
-                Date: Tue 05 September 2023
-        </abbr>
-<p>In <a href="https://thehorushawk.github.io/category/development.html">Development</a></p>
-
-</footer><!-- /.post-info -->                <p class="entry-summary"><p>Second update on website using Pelican</p></p>
-                <a class="readmore" href="https://thehorushawk.github.io/website-project-update.html">read article</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
                     <h1><a href="https://thehorushawk.github.io/science-and-sanity-not-a-review.html" rel="bookmark"
                            title="Permalink to Science and Sanity (not a review)">Science and Sanity (not a review)</a></h1>
                 </header>
@@ -96,42 +130,6 @@
 
 </footer><!-- /.post-info -->                <p class="entry-summary"><p>Not really a review of a very long and technical book I haven't finished, but which has influence the way I use language and hence how I think. Something I'd like to get back to someday.</p></p>
                 <a class="readmore" href="https://thehorushawk.github.io/science-and-sanity-not-a-review.html">read article</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://thehorushawk.github.io/games-arena-new-project-first-week-update.html" rel="bookmark"
-                           title="Permalink to Games Arena: New project first week update">Games Arena: New project first week update</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="modified" title="2023-08-30T17:03:09.031138+01:00">
-                Date: Wed 30 August 2023
-        </abbr>
-<p>In <a href="https://thehorushawk.github.io/category/development.html">Development</a></p>
-
-</footer><!-- /.post-info -->                <p class="entry-summary"><p>Django web application, project name Games Arena, week one update.</p></p>
-                <a class="readmore" href="https://thehorushawk.github.io/games-arena-new-project-first-week-update.html">read article</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://thehorushawk.github.io/website-new-project-using-pelican.html" rel="bookmark"
-                           title="Permalink to Website: New project using Pelican">Website: New project using Pelican</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="modified" title="2023-08-28T18:03:45.343526+01:00">
-                Date: Mon 28 August 2023
-        </abbr>
-<p>In <a href="https://thehorushawk.github.io/category/development.html">Development</a></p>
-
-</footer><!-- /.post-info -->                <p class="entry-summary"><p>First update on new project, creating a website using Pelican</p></p>
-                <a class="readmore" href="https://thehorushawk.github.io/website-new-project-using-pelican.html">read article</a>
                 </div><!-- /.entry-content -->
             </article></li>
 
@@ -164,7 +162,7 @@
         <abbr class="modified" title="2023-04-10T19:30:00+01:00">
                 Date: Mon 10 April 2023
         </abbr>
-<p>In <a href="https://thehorushawk.github.io/category/videos.html">Videos</a></p>
+<p>In <a href="https://thehorushawk.github.io/category/film.html">Film</a></p>
 
 </footer><!-- /.post-info -->                <p class="entry-summary"><p>Short documentary I wrote and directed, about East Sussex's Compost Club</p></p>
                 <a class="readmore" href="https://thehorushawk.github.io/living-compost.html">read article</a>
@@ -182,7 +180,7 @@
         <abbr class="modified" title="2012-04-10T19:30:00+01:00">
                 Date: Tue 10 April 2012
         </abbr>
-<p>In <a href="https://thehorushawk.github.io/category/videos.html">Videos</a></p>
+<p>In <a href="https://thehorushawk.github.io/category/film.html">Film</a></p>
 
 </footer><!-- /.post-info -->                <p class="entry-summary"><p>Neo-noir financial film, where an investigator attempts to tackle the big issue of the day: the looming IMF intervention. Language: Portuguese with English subtitles</p></p>
                 <a class="readmore" href="https://thehorushawk.github.io/francoforte.html">read article</a>
