@@ -1,4 +1,5 @@
 Title: Interactive Fiction
+status:draft
 
 I wrote an interactive piece of writing, using a software called Twine. These things are generally called "Interactive Fiction" but I'm unsure whether that's a good description for what I have made. Since I don't have a better name for them, I'm going to be calling these texts that too.
 

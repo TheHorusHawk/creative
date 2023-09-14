@@ -4,6 +4,7 @@ SITEURL = ''
 
 
 THEME = '../Pelican/Wip-theme'
+# THEME = 'notmyidea'
 
 GITHUB_URL = 'https://github.com/me50/TheHorusHawk'
 PATH = 'content'
