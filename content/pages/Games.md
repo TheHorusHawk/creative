@@ -1,8 +1,8 @@
-Title: Interactive Stuff
+Title: Interactive
 
 I wrote an interactive piece of writing, using a software called Twine. These things are generally called "Interactive Fictions". There's no gameplay element to it, you navigate it by choosing from a selection of possible responses.  
 
-Have a crack at it if you're in the mood to read. [Here it is.]({static}/IFs/IF.html)
+Have a crack at it if you're in the mood to read. It's called [Conversation]({static}/IFs/IF.html).
 
 [//]: # (Or play it within [a frame]({filename}/hidden/IF.md).)
 

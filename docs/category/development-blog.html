@@ -16,9 +16,10 @@
         <header id="banner" class="body">
                 <h1><a href="https://thehorushawk.github.io/">Bruno's Website of Things</a></h1>
                 <nav><ul>
+                    <li><a href="https://thehorushawk.github.io/pages/about.html">About</a></li>
                     <li><a href="https://thehorushawk.github.io/pages/animation.html">Animation</a></li>
                     <li><a href="https://thehorushawk.github.io/pages/comics.html">Comics</a></li>
-                    <li><a href="https://thehorushawk.github.io/pages/interactive-stuff.html">Interactive Stuff</a></li>
+                    <li><a href="https://thehorushawk.github.io/pages/interactive.html">Interactive</a></li>
                     <li class="active"><a href="https://thehorushawk.github.io/category/development-blog.html">Development Blog</a></li>
                     <li><a href="https://thehorushawk.github.io/category/film.html">Film</a></li>
                     <li><a href="https://thehorushawk.github.io/category/reviews.html">Reviews</a></li>
@@ -27,21 +28,41 @@
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="https://thehorushawk.github.io/games-arena-new-project-first-week-update.html">Games Arena: New project first week update</a></h1>
+                    <h1 class="entry-title"><a href="https://thehorushawk.github.io/games-arena-enter-vue.html">Games Arena, Enter Vue</a></h1>
+<footer class="post-info">
+        <abbr class="modified" title="2023-09-26T19:00:03.701402+01:00">
+                Date: Tue 26 September 2023
+        </abbr>
+<p>In <a href="https://thehorushawk.github.io/category/development-blog.html">Development Blog</a></p>
+
+</footer><!-- /.post-info --><p>So, this week, I finished implementing the feature of setting a player as online and not online via middleware and caching. They way it's implemented, there's a list of all the player who are online - defined as having interacted with the application in the last 5 minutes - on the cache at all times, which is updated by the middleware.</p>
+<p>The function that renders the template then works out who isn't online and feeds both lists to the template. The webpage then shows two lists, one with the players who are online and another with the players who are offline. Sweet!</p>
+<p>Time for some frontend. I now need to implement a way for players to interact with other players and challenge them to games. I wanted to use Vue.js, a library, rather than vanilla Javascript, which I have no experience with. So, I've been reading documentation and doing tutorials.</p>
+<p>As for what's next, I have to implement the interactions. I'll start by implementing a button next to the name of a player with something like "Challenge to game". I'm not 100% sure I'll be using Vue, but, if I do, I'll have to configure the application to use it.</p>
+<p>I'll let you know all about it on my next update!</p>                </article>
+            </aside><!-- /#featured -->
+                <section id="content" class="body">
+                    <h1>Other articles</h1>
+                    <hr />
+                    <ol id="posts-list" class="hfeed">
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="https://thehorushawk.github.io/games-arena-new-project-first-week-update.html" rel="bookmark"
+                           title="Permalink to Games Arena: New project first week update">Games Arena: New project first week update</a></h1>
+                </header>
+
+                <div class="entry-content">
 <footer class="post-info">
         <abbr class="modified" title="2023-09-14T17:09:47.454696+01:00">
                 Date: Thu 14 September 2023
         </abbr>
 <p>In <a href="https://thehorushawk.github.io/category/development-blog.html">Development Blog</a></p>
 
-</footer><!-- /.post-info --><p>I'm starting a new project in Django, which is to be the final project of my Web Development with Python and Javascript course. Unlike other projects of that course, this one I will be doing from scratch, with no seed code. </p>
-<p>This first week, I have initialized the django project and created a screen to choose your nickname. Once you do, or if you already have logged in before, it will take you to the Games Arena proper, where you'll be able to see who else is online so you can choose people to play a game. All this is done via sessions.</p>
-<p>At the moment, being online is implemented only as a button which allows players to make themselves available for a game, but I'm looking to implement a way for the server to tell who is and isn't online automatically. I'm looking to do this via Redis. More news on that, or on my failure to do so, on my next update, I hope.</p>                </article>
-            </aside><!-- /#featured -->
-                <section id="content" class="body">
-                    <h1>Other articles</h1>
-                    <hr />
-                    <ol id="posts-list" class="hfeed">
+</footer><!-- /.post-info -->                <p class="entry-summary"><p>Django web application, project name Games Arena, week one update.</p></p>
+                <a class="readmore" href="https://thehorushawk.github.io/games-arena-new-project-first-week-update.html">read article</a>
+                </div><!-- /.entry-content -->
+            </article></li>
 
             <li><article class="hentry">
                 <header>
