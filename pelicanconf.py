@@ -43,5 +43,12 @@ STATIC_PATHS: [
 # Just for development, forces reloading cache
 LOAD_CONTENT_CACHE = False
 
+# Interactive fiction html/css, etc. is already provided by Twine
 PAGE_EXCLUDES = ['IFs']
 ARTICLE_EXCLUDES = ['IFs']
+
+# testing wide
+# CSS_FILE = "wide.css"
+
+#new variable for comments
+UTTERANCES = True
