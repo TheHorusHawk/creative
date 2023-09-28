@@ -1,4 +1,5 @@
 AUTHOR = 'Bruno Teles'
+SITENAMESMALL = "Bruno's Website"
 SITENAME = "Bruno's Website of Things"
 SITEURL = ''
 
@@ -24,7 +25,8 @@ AUTHOR_FEED_RSS = None
 LINKS = (('Pelican', 'https://getpelican.com/'),
          ('Python.org', 'https://www.python.org/'),
          ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('Twine', 'https://twinery.org/'),)
+         ('Twine', 'https://twinery.org/'),
+         ('Utterances', 'https://utteranc.es/'),)
 
 # Social widget
 SOCIAL = (('LinkedIn', 'https://www.linkedin.com/in/bruno-madureira-teles/'),
