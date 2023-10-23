@@ -56,4 +56,4 @@ ARTICLE_EXCLUDES = ['IFs']
 
 #new variabls for comments
 UTTERANCES = True
-REPO = 'TheHorusHawk/TheHorusHawk.github.io'
+REPO = 'TheHorusHawk/creative'
