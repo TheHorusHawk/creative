@@ -42,6 +42,7 @@ STATIC_PATHS: [
         'images',
         'IFs',
         ]
+
 # Just for development, forces reloading cache
 LOAD_CONTENT_CACHE = False
 
