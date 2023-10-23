@@ -1,13 +1,14 @@
 AUTHOR = 'Bruno Teles'
 SITENAMESMALL = "Bruno's Website"
 SITENAME = "Bruno's Website of Things"
-SITEURL = ''
+SITEURL = 'https://thehorushawk.github.io/creative'
+
 
 
 THEME = '../Pelican/Wip-theme'
 # THEME = 'notmyidea'
 
-GITHUB_URL = 'https://github.com/me50/TheHorusHawk'
+GITHUB_URL = 'https://github.com/TheHorusHawk'
 PATH = 'content'
 OUTPUT_PATH = 'docs/'
 TIMEZONE = 'Europe/London'
@@ -53,5 +54,6 @@ ARTICLE_EXCLUDES = ['IFs']
 # testing wide
 # CSS_FILE = "wide.css"
 
-#new variable for comments
+#new variabls for comments
 UTTERANCES = True
+REPO = 'TheHorusHawk/TheHorusHawk.github.io'
