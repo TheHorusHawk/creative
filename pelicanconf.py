@@ -1,6 +1,6 @@
 AUTHOR = 'Bruno Teles'
 SITENAMESMALL = "Bruno's Website"
-SITENAME = "Bruno's Website of Things"
+SITENAME = "Bruno's Website of Creative Things"
 SITEURL = 'https://thehorushawk.github.io/creative'
 
 
