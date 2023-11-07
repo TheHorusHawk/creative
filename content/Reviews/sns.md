@@ -1,5 +1,6 @@
-Title: Science and Sanity (not a review)
+Title: Science and Sanity (not really a review)
 Summary: Not really a review of a very long and technical book I haven't finished, but which has influence the way I use language and hence how I think. Something I'd like to get back to someday.
+Date: 2023-08-30 9:00
 
 I've never finished Science and Sanity, by Alfred Korzbski. I've barely made it a third of the way through, actually, having read it as closely as I possibly could, given the constraints of my life at the time. I'd say I made a proper attempt at it.
 
