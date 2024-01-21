@@ -6,8 +6,8 @@ I had a one-page comics phase in 2018. Maybe it will come back. Here's some low-
 
 [//]: <> (![Untitled](/images/untitled.jpg))
 
-![Titles](/images/to be.jpg)
+![Titles]({filename}/images/to be.jpg)
 
-![Plato's cavern](/images/platos cavern.jpg)
+![Plato's cavern]({filename}/images/platos cavern.jpg)
 
-![First](/images/first.jpg)
+![First]({filename}/images/first.jpg)
