@@ -13,4 +13,4 @@ There's more to it, of course. There are really powerful scenes. There's other r
 
 But I grow them now, I think. I grow them by exposure to them. So here's why I cannot review a book. I cannot review what I cannot grasp, for I have only just started to develop the sense organs that could, fully developed, might perhaps be able to grasp. But I tire of this, and feel yet another of the precious gifts of this book in another realization: Why grasp? Why must I perceive everything with a grasping hand, that seeks to make mine and to manipulate to create advantage. Can I not reach my hand out to stroke, to caress, to feel together? 
 
-Mercy me. 
+For Mercy. 
