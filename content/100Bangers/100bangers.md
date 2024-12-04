@@ -27,11 +27,11 @@ Here's 100 songs, the songs of my life.
 - The Guitar Trio - Mediterranean Sundance
 - The Prodigy - Smack my bitch up 
 - Livin' la Vida Loca - Ricky Martin
+- The Offspring - Come out and play
 - Fatboy Slim - Right Here, Right Now
 - Zeca Afonso - Cantar Alentejano
 - Proppelerheads - Spybreak!
 - Portishead - Glory Box 
-- Premiata Forneria Marconi - E festa
 - Area - L'elefante bianco
 - Can - Mother Sky
 - Gong - Flying Teapot
@@ -64,10 +64,10 @@ Here's 100 songs, the songs of my life.
 - Serge Gainsbourg - Le poinconneur des lilas
 - Charles Aznavour - Formidable
 - Mler Ife Dada - Sinto em mim
+- Faust - No Harm
 - Sun Ra - Space is the place
 - Pharoah Sanders - You got to have Freedom
 - Buraka Som Sistema - Kalemba
-- Herbie Hancock - Canteloupe Island
 - Raul Seixas - Ouro de tolo
 - John Zorn/Electric Masada - Karaim
 - Fausto - Por este rio acima
@@ -76,7 +76,7 @@ Here's 100 songs, the songs of my life.
 - Van der Graaf Generator - Lemmings 
 - Captain Beefheart - Electricity
 - Zero Seven - In the Waiting line
-- Sunday Afternoon - The Kinks
+- The Kinks - Sunday Afternoon 
 - Nancy Sinatra - You only live twice
 - Soft Machine - Moon in June
 - Charles Mingues - Better get hit in 'yo soul
