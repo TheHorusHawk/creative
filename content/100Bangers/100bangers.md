@@ -53,6 +53,7 @@ Here's 100 songs, the songs of my life.
 - Hallogallo - Neu!
 - Genesis - The Knife
 - Headhunters - Chamaeleon
+- Justice - Phantom pt. II
 - Dave Brubeck - Take Five
 - Roxy Music - Re-Make/Re-Model
 - John Coltrane - Afro-blue
@@ -71,7 +72,6 @@ Here's 100 songs, the songs of my life.
 - John Zorn/Electric Masada - Karaim
 - Fausto - Por este rio acima
 - Scraping foetus off the wheel - Descent into the Inferno
-- Dr John - Gris gris
 - Can - Mother Sky
 - Van der Graaf Generator - Lemmings 
 - Captain Beefheart - Electricity
