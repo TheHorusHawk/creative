@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Bruno's Website of Creative Things - 100Bangers</title><link href="https://thehorushawk.github.io/creative/" rel="alternate"></link><link href="https://thehorushawk.github.io/creative/feeds/100bangers.atom.xml" rel="self"></link><id>https://thehorushawk.github.io/creative/</id><updated>2024-12-04T22:59:59+00:00</updated><entry><title>100 Songs</title><link href="https://thehorushawk.github.io/creative/100-songs.html" rel="alternate"></link><published>2024-08-18T09:00:00+01:00</published><updated>2024-12-04T22:59:59+00:00</updated><author><name>Bruno Teles</name></author><id>tag:thehorushawk.github.io,2024-08-18:/creative/100-songs.html</id><summary type="html">&lt;p&gt;100 bagers of my life, in autobiographical order (Incomplete)&lt;/p&gt;</summary><content type="html">&lt;p&gt;This started as a list of 100 songs that were the track I thought was the best ever, that I would listen to on repeat thinking, this song is the best song ever... until I tired of it. I present them in rough autobiographical order - by which I mean the order, in my life, when I was was so entranced by them. &lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Bruno's Website of Creative Things - 100Bangers</title><link href="https://thehorushawk.github.io/creative/" rel="alternate"></link><link href="https://thehorushawk.github.io/creative/feeds/100bangers.atom.xml" rel="self"></link><id>https://thehorushawk.github.io/creative/</id><updated>2024-12-13T15:00:08+00:00</updated><entry><title>100 Songs</title><link href="https://thehorushawk.github.io/creative/100-songs.html" rel="alternate"></link><published>2024-08-18T09:00:00+01:00</published><updated>2024-12-13T15:00:08+00:00</updated><author><name>Bruno Teles</name></author><id>tag:thehorushawk.github.io,2024-08-18:/creative/100-songs.html</id><summary type="html">&lt;p&gt;100 bagers of my life, in autobiographical order (Incomplete)&lt;/p&gt;</summary><content type="html">&lt;p&gt;This started as a list of 100 songs that were the track I thought was the best ever, that I would listen to on repeat thinking, this song is the best song ever... until I tired of it. I present them in rough autobiographical order - by which I mean the order, in my life, when I was was so entranced by them. &lt;/p&gt;
 &lt;p&gt;While some fit that bill entirely, some stand for not a particulary song I used to listen to on repeat, but to an album I was overtaken by. &lt;/p&gt;
 &lt;p&gt;I also had to add the rule of one band/artist per entry. Otherwise more than half the list would be by two artists. &lt;/p&gt;
 &lt;p&gt;Here's 100 songs, the songs of my life.&lt;/p&gt;
-&lt;ul&gt;
+&lt;ol&gt;
 &lt;li&gt;Atirei o pau ao gato&lt;/li&gt;
 &lt;li&gt;Banda sonora Rei Leao - Eu mal posso esperar para ser Rei &lt;/li&gt;
 &lt;li&gt;The Connels - 74/75&lt;/li&gt;
@@ -12,6 +12,7 @@
 &lt;li&gt;Dulce Pontes - Cancao do mar&lt;/li&gt;
 &lt;li&gt;Korn - freak on a leash&lt;/li&gt;
 &lt;li&gt;Candela Azul - Juegalo&lt;/li&gt;
+&lt;li&gt;Buena Vista Social Club - Chan Chan&lt;/li&gt;
 &lt;li&gt;Joaquin Rodrigo - Concierto de Aranjuez - Alegro (Paco de Lucia)&lt;/li&gt;
 &lt;li&gt;Queen - It's a kind of Magic&lt;/li&gt;
 &lt;li&gt;Atomic kitten - Eternal Flame&lt;/li&gt;
@@ -46,12 +47,12 @@
 &lt;li&gt;Hallogallo - Neu!&lt;/li&gt;
 &lt;li&gt;Genesis - The Knife&lt;/li&gt;
 &lt;li&gt;Headhunters - Chamaeleon&lt;/li&gt;
-&lt;li&gt;Justice - Phantom pt. II&lt;/li&gt;
+&lt;li&gt;Justice - Genesis&lt;/li&gt;
 &lt;li&gt;Dave Brubeck - Take Five&lt;/li&gt;
 &lt;li&gt;Roxy Music - Re-Make/Re-Model&lt;/li&gt;
 &lt;li&gt;John Coltrane - Afro-blue&lt;/li&gt;
-&lt;li&gt;Peter Gabriel - The Feeling Begins&lt;/li&gt;
-&lt;li&gt;Bonnie M - Sonnie&lt;/li&gt;
+&lt;li&gt;Peter Gabriel - The Feeling Begins
+&amp;lt;!--1. Bonnie M - Sonnie--!&amp;gt;&lt;/li&gt;
 &lt;li&gt;Aimee Mann - One&lt;/li&gt;
 &lt;li&gt;John Brarry - Theme from Midnight Cowboy&lt;/li&gt;
 &lt;li&gt;Serge Gainsbourg - Le poinconneur des lilas&lt;/li&gt;
@@ -70,10 +71,11 @@
 &lt;li&gt;Captain Beefheart - Electricity&lt;/li&gt;
 &lt;li&gt;Zero Seven - In the Waiting line&lt;/li&gt;
 &lt;li&gt;The Kinks - Sunday Afternoon &lt;/li&gt;
+&lt;li&gt;Sanseverino - Comment seduire une femme marie&lt;/li&gt;
 &lt;li&gt;Nancy Sinatra - You only live twice&lt;/li&gt;
 &lt;li&gt;Soft Machine - Moon in June&lt;/li&gt;
-&lt;li&gt;Charles Mingues - Better get hit in 'yo soul&lt;/li&gt;
-&lt;li&gt;Kraftwerk - Ruckzuk&lt;/li&gt;
+&lt;li&gt;Charles Mingues - Better get hit in 'yo soul
+&amp;lt;!--1. Kraftwerk - Ruckzuk--!&amp;gt;&lt;/li&gt;
 &lt;li&gt;Mahavishnu Orchestra - The inner mounting flame&lt;/li&gt;
 &lt;li&gt;Morphine - Good&lt;/li&gt;
 &lt;li&gt;Ellington, Mingus, Roach - Caravan&lt;/li&gt;
@@ -82,8 +84,8 @@
 &lt;li&gt;Madredeus - O Pastor&lt;/li&gt;
 &lt;li&gt;Bonnie Tyler - Total Eclipse of the Heart&lt;/li&gt;
 &lt;li&gt;Addagietto, 7th Symphony, Beethoven, Karajan&lt;/li&gt;
-&lt;li&gt;Madvillainy - Accordion&lt;/li&gt;
-&lt;li&gt;Britney Spears - Toxic&lt;/li&gt;
+&lt;li&gt;Madvillainy - Accordion
+&amp;lt;!---1. Britney Spears - Toxic---!&amp;gt;&lt;/li&gt;
 &lt;li&gt;Nina simone - I get on without very well (except sometimes)&lt;/li&gt;
 &lt;li&gt;Yoko Kanno and the Seatbelts - Tank!&lt;/li&gt;
 &lt;li&gt;Seu Jorge - Life on Mars&lt;/li&gt;
@@ -101,8 +103,8 @@
 &lt;li&gt;Fela Kuti - Water no get enemy&lt;/li&gt;
 &lt;li&gt;Tom Ze - Xique Xique&lt;/li&gt;
 &lt;li&gt;Caetano Veloso - It's a long road&lt;/li&gt;
-&lt;li&gt;My Bloody Valentine - Only Shallow&lt;/li&gt;
-&lt;li&gt;Cameo - Shake your pants&lt;/li&gt;
+&lt;li&gt;My Bloody Valentine - Only Shallow
+&amp;lt;!--1. Cameo - Shake your pants--!&amp;gt;&lt;/li&gt;
 &lt;li&gt;Joni Mitchel - Case of you&lt;/li&gt;
 &lt;li&gt;Jacques Brel - Vesoul&lt;/li&gt;
-&lt;/ul&gt;</content><category term="100Bangers"></category></entry></feed>
+&lt;/ol&gt;</content><category term="100Bangers"></category></entry></feed>
