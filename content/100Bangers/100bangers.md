@@ -59,7 +59,7 @@ Here's 100 songs, the songs of my life.
 1. Roxy Music - Re-Make/Re-Model
 1. John Coltrane - Afro-blue
 1. Peter Gabriel - The Feeling Begins
-<!--1. Bonnie M - Sonnie--!>
+<!-- 1. Bonnie M - Sonnie --!>
 1. Aimee Mann - One
 1. John Brarry - Theme from Midnight Cowboy
 1. Serge Gainsbourg - Le poinconneur des lilas
@@ -82,7 +82,7 @@ Here's 100 songs, the songs of my life.
 1. Nancy Sinatra - You only live twice
 1. Soft Machine - Moon in June
 1. Charles Mingues - Better get hit in 'yo soul
-<!--1. Kraftwerk - Ruckzuk--!>
+<!-- 1. Kraftwerk - Ruckzuk --!>
 1. Mahavishnu Orchestra - The inner mounting flame
 1. Morphine - Good
 1. Ellington, Mingus, Roach - Caravan
@@ -92,7 +92,7 @@ Here's 100 songs, the songs of my life.
 1. Bonnie Tyler - Total Eclipse of the Heart
 1. Addagietto, 7th Symphony, Beethoven, Karajan
 1. Madvillainy - Accordion
-<!---1. Britney Spears - Toxic---!>
+<!-- 1. Britney Spears - Toxic --!>
 1. Nina simone - I get on without very well (except sometimes)
 1. Yoko Kanno and the Seatbelts - Tank!
 1. Seu Jorge - Life on Mars
@@ -111,6 +111,6 @@ Here's 100 songs, the songs of my life.
 1. Tom Ze - Xique Xique
 1. Caetano Veloso - It's a long road
 1. My Bloody Valentine - Only Shallow
-<!--1. Cameo - Shake your pants--!>
+1. Cameo - Shake your pants
 1. Joni Mitchel - Case of you
 1. Jacques Brel - Vesoul
