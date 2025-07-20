@@ -15,12 +15,12 @@ Here's 100 songs, the songs of my life.
 1. Banda sonora Rei Leao - Eu mal posso esperar para ser Rei 
 1. The Connels - 74/75
 1. Rui Veloso - O ourives mestre Joao 
-1. Beethoven - 9th Synphony ( Szell - Cleveland Orchestra)
+1. Beethoven - 9th Symphony ( version: George Szell - Cleveland Orchestra)
 1. Dulce Pontes - Cancao do mar
 1. Korn - freak on a leash
 1. Candela Azul - Juegalo
 1. Buena Vista Social Club - Chan Chan
-1. Joaquin Rodrigo - Concierto de Aranjuez - Alegro (Paco de Lucia)
+1. Joaquin Rodrigo - Concierto de Aranjuez - Alegro (version: Paco de Lucia)
 1. Queen - It's a kind of Magic
 1. Atomic kitten - Eternal Flame
 1. Bjork - It's Oh So Quiet
@@ -48,7 +48,7 @@ Here's 100 songs, the songs of my life.
 1. King Crimson - 21st century schizoid man
 1. The Doors - The End  
 1. Led Zeppelin - Dazed and Confused
-1. Frank Zappa - Cruisin for Burgers (Zappa in New York)
+1. Frank Zappa - Cruisin for Burgers (version: Zappa in New York)
 1. Colosseum - The Kettle
 1. Goldfrapp - Lovely Head
 1. Hallogallo - Neu!
