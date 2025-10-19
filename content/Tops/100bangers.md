@@ -1,6 +1,6 @@
 title: 100 Songs
 Date: 2024-08-18 09:00
-Summary: 100 bagers of my life, in autobiographical order (Incomplete)
+Summary: The 100 songs of my life, in autobiographical order 
 
 
 This started as a list of 100 songs that were the track I thought was the best ever, that I would listen to on repeat thinking, this song is the best song ever... until I tired of it. I present them in rough autobiographical order - by which I mean the order, in my life, when I was was so entranced by them. 
