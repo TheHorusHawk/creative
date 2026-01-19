@@ -5,8 +5,6 @@ Template: about
 
 - So, having gotten that out of the way, here's a different formulation. I go by the name Bruno and I do different things.
 
-- I do some web development. Check out my <a href="https://brunoteles-portfolio.netlify.app/" target="_blank">development blog</a> for news on what I'm working on now.
-
 - I express things in different media. Check out sections on [Animation]({filename}Animation.md), [Comics]({filename}Comics.md), [Games]({filename}Games.md) and [Film]({category}Film).
 
 - I sometimes review things (books, mainly). Check out the [Reviews]({category}Reviews) section to see some of them.
